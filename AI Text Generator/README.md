@@ -8,9 +8,6 @@ The problem is a classic binary classification problem (supervised learning) as 
 
 The challenge evaluates solutions based on the Receiver Operator Curve (ROC) Area Under the Curve (AUC); hence, I will use the ROC AUC as my evaluation metric. 
 
-## Application
-The application is live! You can go directly to [https://verifyai.streamlit.app/](https://verifyai.streamlit.app/) to play with the project! All you need to do is paste your essay into the text box and in a couple minutes, you will see a prediction! Here is an example on how to use the app:
-
 ## References
 This project wouldn't have been built without the help of some resources. In this section, I provide links to data sources & research papers I utilized to guide my approach.
 
