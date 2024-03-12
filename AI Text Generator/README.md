@@ -1,6 +1,4 @@
-# verify-ai
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://verifyai.streamlit.app/)   
-Using machine learning to detect A.I generated essays.
+# Using machine learning to detect A.I generated essays.
 
 ## Problem
 The rise of large language models (LLMs) has caused many folks to be concerned that LLMs will replace everyday human jobs. Specifically, educators are concerned that students may use LLMs to submit essays that are not their own. As a result, the students’ writing skills may deteriorate and their creative thinking ability may falter. In this project, I aim to tackle the following problem: how can we accurately assess whether a submitted essay was written by a large language model or written by a student?
@@ -12,8 +10,6 @@ The challenge evaluates solutions based on the Receiver Operator Curve (ROC) Are
 
 ## Application
 The application is live! You can go directly to [https://verifyai.streamlit.app/](https://verifyai.streamlit.app/) to play with the project! All you need to do is paste your essay into the text box and in a couple minutes, you will see a prediction! Here is an example on how to use the app:
-
-![alt-text-1](images/beginning.png "title-1") ![alt-text-2](images/prediction.png "title-2")
 
 ## References
 This project wouldn't have been built without the help of some resources. In this section, I provide links to data sources & research papers I utilized to guide my approach.
@@ -38,10 +34,3 @@ This project wouldn't have been built without the help of some resources. In thi
 5. [On the Possibilities of AI-Generated Text Detection](https://arxiv.org/abs/2304.04736)
 6. [Release Strategies and the Social Impacts of Language Models](https://d4mucfpksywv.cloudfront.net/papers/GPT_2_Report.pdf)
 
-### Other Resources
-
-1. [RoBERTa Base OpenAI Detector](https://huggingface.co/roberta-base-openai-detector)
-2. [Emotion English DistilRoBERTa-base](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base)
-
-## Author
-If you have any questions about the project, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jinalshah2002/)!
